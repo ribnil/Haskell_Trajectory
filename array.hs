@@ -1,5 +1,3 @@
-import Control.Monad
-
 main = do
     print $ [0..10]
     print $ 0:[1..10]
