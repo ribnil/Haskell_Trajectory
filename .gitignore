@@ -1,0 +1,10 @@
+.idea
+.stack-work
+
+HsPro.cabal
+HsPro.iml
+
+Setup.hs
+
+stack.yaml
+stack.yaml.lock
